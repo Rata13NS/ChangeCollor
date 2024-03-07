@@ -1,5 +1,5 @@
 let colorIndex = 0;
-var button = document.getElementById('changeTheColor');
+let button = document.getElementById('changeTheColor');
 let colors = ['btn-danger', 'btn-warning', 'btn-success'];
 
 function changeColor() {
